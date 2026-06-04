@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b451d23f-d57c-4944-9c3a-16b1f89c97d9" alt="VisibleSeed: the work that compounds." width="100%"/>
+  <img src="https://raw.githubusercontent.com/VisibleSeed-Solutions/.github/main/profile/banner.png" alt="VisibleSeed: custom software, cloud, and AI automation" width="100%"/>
 </p>
 
 <br/>
